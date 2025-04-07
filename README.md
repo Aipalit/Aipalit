@@ -70,7 +70,7 @@ Aqui estão alguns dos meus projetos:
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" height="30" width="40" src="https://i.gifer.com/7AAc.gif" alt="Imagem">
 </p>
 
 ---
