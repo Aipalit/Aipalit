@@ -51,9 +51,14 @@
   
 </p>
 
-### 🐍 Contribuições
+### 🐍 Snake Game - Histórico de Contribuições
 
-![Snake animation](https://github.com/Aipalit/Aipalit/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/Aipalit/Aipalit/blob/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Aipalit/Aipalit/blob/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+
+
 
 
   
