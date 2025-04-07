@@ -12,6 +12,14 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v4
 
+      - name: Garantir que a branch 'output' existe
+        run: |
+          if ! git ls-remote --exit-code --heads origin output; then
+            git checkout --orphan output
+            git commit --allow-empty -m "Initial commit on output branch"
+            git push origin output
+          fi
+
       - name: Gerar animação do Snake Game
         uses: Platane/snk@v3
         with:
