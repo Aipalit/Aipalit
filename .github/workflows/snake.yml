@@ -20,6 +20,9 @@ jobs:
             git push origin output
           fi
 
+      - name: Remover arquivos conflitantes
+        run: rm -f dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+
       - name: Gerar animação do Snake Game
         uses: Platane/snk@v3
         with:
