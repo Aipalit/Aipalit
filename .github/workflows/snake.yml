@@ -20,8 +20,15 @@ jobs:
             git push origin output
           fi
 
-      - name: Remover arquivos conflitantes
-        run: rm -f dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+      - name: Forçar checkout para a branch output
+        run: |
+          git fetch origin output
+          git checkout output || git checkout -b output
+
+      - name: Remover arquivos antigos
+        run: |
+          rm -f dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          git rm -f dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg || true
 
       - name: Gerar animação do Snake Game
         uses: Platane/snk@v3
@@ -31,9 +38,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit e push do SVG gerado
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Atualização automática do Snake Game"
-          branch: output
-          file_pattern: dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+      - name: Adicionar e commit de arquivos atualizados
+        run: |
+          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          git commit -m "Atualização automática do Snake Game"
+
+      - name: Push das mudanças
+        run: git push origin output --force
