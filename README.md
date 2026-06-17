@@ -7,37 +7,34 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, me chamo Lucas e sou apaixonado por programação desde 2012!
+  Olá 👋, me chamo Lucas e sou Desenvolvedor Back-end.
   
   - 🌱 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**.  
-  - 🔭 Busco minha primeira oportunidade de trabalho ou estágio na área de tecnologia.  
+  - 🔭 Focado na construção de APIs RESTful resilientes, escaláveis e alinhadas às regras de negócio.  
 </p>
 
 <!-- Dropdown: Sobre Mim -->
 <details>
   <summary>🤓 Um pouco sobre mim</summary>
 
-  - 💬 Tenho 27 anos e moro no Espírito Santo. No momento, estou aprofundando meus estudos em **Java com Spring Boot e SQL**.  
-  - Minha curiosidade pela programação começou aos 10 anos, quando tive meu primeiro contato com um computador e descobri o Prompt de Comando. 🖥️  
-  - Fascinado com essa descoberta, comecei a explorar fóruns online e me deparei com o universo das linhas de comando.  
-  - Durante o Ensino Médio, fiz um curso técnico voltado para **manutenção e programação**, formando-me em 2014. Agora, estou retomando minha jornada na área de tecnologia.  
+  - 💬 Tenho 27 anos, moro no Espírito Santo e meu foco de atuação é o ecossistema **C# .NET**.  
+  - Minha jornada na tecnologia começou em 2012 e consolidou-se com minha formação técnica em 2014. 🖥️  
+  - Trago um diferencial prático: atuei ativamente em operações logísticas de alta volumetria e prevenção a fraudes. Essa vivência me ensinou a traduzir regras de negócio complexas, gerenciar crises e desenhar arquiteturas que evitem gargalos sistêmicos.
+  - Atualmente, aplico padrões como **Clean Architecture** e **Injeção de Dependência** para garantir que o código seja limpo, testável e manutenível.
 
-  ⚡ **Hobbies:** Ultimamente, gosto de assistir longplays, ler e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e ajudam na resolução de problemas. 😃  
+  ⚡ **Hobbies:** Nas horas vagas, gosto de assistir longplays, ler e jogar! Acredito que o pensamento analítico dos jogos contribui diretamente para a resolução de problemas complexos. 😃  
 </details>
 
 <!-- Skills: Ferramentas & Tecnologias -->
 <h3>🚀 Tecnologias e Ferramentas</h3>
 <p align="left">
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
 
 ---
@@ -47,8 +44,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aipalit&hide=contribs,issues&icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aipalit&layout=compact&hide=shell&theme=dark" />
-  
-  
 </p>
 
 ### 🐍 Snake Game - Histórico de Contribuições
@@ -56,36 +51,18 @@
 ![GitHub Snake Light](https://github.com/Aipalit/Aipalit/blob/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/Aipalit/Aipalit/blob/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
-
-
-
-
-  
-
-
 <!-- Portfolio -->
-## 💼 Portfólio  
-Aqui estão alguns dos meus projetos:  
-- [🚑 MedLine ](https://github.com/Aipalit/medline)  
-- [🛵 CloneFood](https://github.com/Aipalit/CloneFood)  
-  
-
----
-
-<!-- GIF -->
-<p align="left">
-  <img align="center" height="30" width="40" src="https://i.gifer.com/7AAc.gif" alt="Imagem">
-</p>
+## 💼 Projetos em Destaque  
+Aqui estão algumas das minhas soluções:  
+- **Gerador Cutter:** WebAPI em C# .NET aplicando Clean Architecture para catalogação de livros.
+- [🚑 MedLine](https://github.com/Aipalit/medline): API de triagem médica e mapeamento de gargalos operacionais.  
+- [🛵 CloneFood](https://github.com/Aipalit/CloneFood): SaaS conteinerizado (Docker) com integração de gateway de pagamento.  
 
 ---
 
 <!-- Redes Sociais -->
 <h3>📢 Vamos nos conectar!</h3>
 <p align="left">
-  <a href="https://www.instagram.com/lucaixgomes/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/lucas-gomes-1a041415b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
